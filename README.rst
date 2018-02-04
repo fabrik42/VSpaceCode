@@ -99,7 +99,7 @@ Key bindings                     Description                                 Rem
 :kbd:`leader` :kbd:`'`           Toggle terminal                             Open terminal effectively
 :kbd:`leader` :kbd:`space`       Run command
 :kbd:`leader` :kbd:`tab`         Next editor
-:kbd:`leader` :kbd:`/` .         Find in files
+:kbd:`leader` :kbd:`/`           Find in files
 :kbd:`leader` :kbd:`1`           Focus first editor group
 :kbd:`leader` :kbd:`2`           Focus second editor group
 :kbd:`leader` :kbd:`3`           Focus third editor group
